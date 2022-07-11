@@ -1,1 +1,1 @@
-This about printf poject we collaborate with peer
+This project is about collaboration with our peers
